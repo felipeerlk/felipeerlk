@@ -1,13 +1,13 @@
-- 👋 Oi, eu sou @felipeerlk
-- 👀 Estou interessado em...
-- 🌱 Estou aprendendo...
-- 💞️ Estou procurando colaborar em...
-heavy_check_mark・Desenvolvedor Full Stack
+# Sobre Min
 
-envelope_with_arrow・Cheating Private - Código fonte - Spoofer / Dm discord Sarnax#7522 or mail SarnaxOfficial@protonmail.com
+✔️・Desenvolvedor Full Stack
 
-globe_with_meridians・Website: Sarnax.xyz
+📩・Meu Email de contanto: rodrigues.almeida.felipe@escola.gov.pr.br
 
-postbox・A linguagem em que sou bom C++ C# LUA Python HTML JAVA
+🌐・Website: Em breve
 
-video_game・Adicionar amigo no steam : Sarnax
+📮・A linguagem em que estou aprendendo C++ C# LUA HTML JAVA
+
+🎮・Adicionar amigo no steam : Sarnax
+
+# Perfil Discord
