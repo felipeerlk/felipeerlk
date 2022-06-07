@@ -11,3 +11,4 @@
 🎮・Adicionar amigo no steam : Sarnax
 
 # Perfil Discord
+<img ![image](https://user-images.githubusercontent.com/104572411/172455655-d2162983-79b2-4a39-be96-e980100e3871.png)>
