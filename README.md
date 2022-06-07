@@ -4,6 +4,11 @@ data-canonical-src="https://img.shields.io/github/followers/felipeerlk?color=728
 style="max-width: 100%;">
 </a>
 
+# My Profile
+<a href="https://github.com/felipeerlk">
+<img title="SarnaxLii stats" alt="SarnaxLii's streak" src="https://camo.githubusercontent.com/af161828ad7d3e56b52b1af57b00798d79ecf5fc659ad0003aad86167bbc3d75/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d5361726e61784c6969267468656d653d6461726b26686964655f626f726465723d74727565267374726f6b653d663533623362" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=felipeerlk&amp;theme=dark&amp;hide_border=true&amp;stroke=f53b3b" style="max-width: 100%;">
+</a>
+
 # Linguagens de programação que eu uso principalmente.
 ![image](https://user-images.githubusercontent.com/104572411/172455886-b950301e-263b-4d7b-9b67-5d2bca9edf06.png) ![image](https://user-images.githubusercontent.com/104572411/172455938-697a7225-23e3-489b-af73-53ba52390ca6.png)
 
@@ -16,7 +21,8 @@ style="max-width: 100%;">
 🎮・Adicionar amigo no steam : <a href="https://steamcommunity.com/id/sarnaxOfficial/" rel="nofollow">felipeerlk</a>
 
 # Redes Sociais
-![image](https://user-images.githubusercontent.com/104572411/172456699-c77df0bd-92ce-4205-be5f-1e32d7fa39d3.png)
+![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 # Perfil Discord
 ![image](https://user-images.githubusercontent.com/104572411/172455655-d2162983-79b2-4a39-be96-e980100e3871.png)
