@@ -23,6 +23,4 @@ style="max-width: 100%;">
 ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 # Perfil Discord
-![image](https://user-images.githubusercontent.com/104572411/172455655-d2162983-79b2-4a39-be96-e980100e3871.png)
-
-![Snake animation](https://github.com/felipeerlk/felipeerlk/blob/output/github-contribution-grid-snake.svg)
+![image](https://cdn.discordapp.com/attachments/892222232716251156/985291113667624990/172455655-d2162983-79b2-4a39-be96-e980100e3871-1.png)
